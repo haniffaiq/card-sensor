@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.077fbd9d.css",
-    "main.js": "/static/js/main.c72c7d12.js",
-    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
-    "index.html": "/index.html",
-    "main.077fbd9d.css.map": "/static/css/main.077fbd9d.css.map",
-    "main.c72c7d12.js.map": "/static/js/main.c72c7d12.js.map",
-    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/card-sensor/static/css/main.077fbd9d.css",
+    "main.js": "/card-sensor/static/js/main.2677630f.js",
+    "static/js/787.d3befce1.chunk.js": "/card-sensor/static/js/787.d3befce1.chunk.js",
+    "index.html": "/card-sensor/index.html",
+    "main.077fbd9d.css.map": "/card-sensor/static/css/main.077fbd9d.css.map",
+    "main.2677630f.js.map": "/card-sensor/static/js/main.2677630f.js.map",
+    "787.d3befce1.chunk.js.map": "/card-sensor/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.077fbd9d.css",
-    "static/js/main.c72c7d12.js"
+    "static/js/main.2677630f.js"
   ]
 }
